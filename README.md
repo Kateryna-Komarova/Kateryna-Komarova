@@ -1,3 +1,8 @@
+
+
+
+
+
 - 👋 Hi, I’m @Kateryna-Komarova
 - 👀 I’m interested in  automated testing
 - 🌱 I’m currently learning Java
