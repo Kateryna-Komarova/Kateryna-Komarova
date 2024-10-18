@@ -1,7 +1,4 @@
-![Header](https://github.com/Kateryna-Komarova/Kateryna-Komarova/blob/main/img/Знімок%20екрана%202024-10-18%20о%2018.24.10.png)(https://www.linkedin.com/in/екатерина-комарова-584aab210/)
-
-
-
+![Header](https://github.com/Kateryna-Komarova/Kateryna-Komarova/blob/main/img/Знімок%20екрана%202024-10-18%20о%2018.51.17.png)(https://www.linkedin.com/in/екатерина-комарова-584aab210/)
 
 - 👋 Hi, I’m @Kateryna-Komarova
 - 👀 I’m interested in  automated testing
