@@ -6,25 +6,32 @@
 
 ### Tech skills 💻
 
-- SQL
-- Rest API testing
-- Basic knowledge about software development models (waterfall, v model, iterative and incremental model, agile)
-- Software testing
-- Creating test cases
-- Reporting bugs
-- Creating bug reports
-- Basic Java
+* SQL
+* Rest API testing
+* Basic knowledge about software development models (waterfall, v model, iterative and incremental model, agile)
+* Software testing
+* Creating test cases
+* Reporting bugs
+* Creating bug reports
+* Basic Java
 * Basic HTML and CSS
 * Understanding client-server architecture
 * Understanding test design techniques
 * Understanding the Software Development Life Cycle (SDLC)
 
 ### Soft skills 🌱
-* precision
-* communication
-* assertiveness
-* patience
-* empathy
+
+* Bug Whisperer – Ability to summon bugs out of nowhere, even when no one else can find them.🪲
+
+* Multitasking Ninja – Switching between 10 tabs without losing track of where the bug report is.🥷🏻
+
+* Stress Juggler – Handling sudden deadlines and last-minute scope changes without breaking a sweat.🤭
+
+* Learning Agility – willingness and ability to quickly learn new tools, frameworks, and concepts.
+* Attention to Detail – spotting small errors or inconsistencies that can impact the overall project.
+* Creativity – thinking outside the box to innovate and improve processes or solutions
+* Empathy – understanding the needs of users, team members, and stakeholders to deliver better results.
+* Communication – Clear and effective interaction with team members, stakeholders, and clients.
 
 ### Languages & Tools
 
