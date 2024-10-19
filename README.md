@@ -5,9 +5,11 @@
 - 🌱 I’m currently learning Java
 
 ### Languages & Tools 
-![CSS](https://img.shields.io/badge/CSS-8A2BE2)
 
-<div> </div> 
+<div>
+ <img src=  "https://www.flaticon.com/ru/free-icons/html"/>
+
+ </div> 
 
 ### 📁 Тестовая документация:
 
