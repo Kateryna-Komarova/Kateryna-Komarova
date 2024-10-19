@@ -4,6 +4,28 @@
 - 👀 I’m interested in automated testing
 - 🌱 I’m currently learning Java
 
+### Tech skills 💻
+
+- SQL
+- Rest API testing
+- Basic knowledge about software development models (waterfall, v model, iterative and incremental model, agile)
+- Software testing
+- Creating test cases
+- Reporting bugs
+- Creating bug reports
+- Basic Java
+* Basic HTML and CSS
+* Understanding client-server architecture
+* Understanding test design techniques
+* Understanding the Software Development Life Cycle (SDLC)
+
+### Soft skills 🌱
+* precision
+* communication
+* assertiveness
+* patience
+* empathy
+
 ### Languages & Tools
 
 <div>
