@@ -7,7 +7,11 @@
 ### Languages & Tools 
 
 <div>
-<img src= https://github.com/Kateryna-Komarova/Kateryna-Komarova/blob/main/MyIcons/free-icon-html-5-174854.png />
+<img src= https://github.com/Kateryna-Komarova/Kateryna-Komarova/blob/main/MyIcons/free-icon-html-5-174854.png width="40" height="40" />
+<img src= https://github.com/Kateryna-Komarova/Kateryna-Komarova/blob/main/MyIcons/free-icon-java-3291669.png width="40" height="40" />
+
+
+
 
  </div> 
 
