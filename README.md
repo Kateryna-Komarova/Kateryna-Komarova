@@ -7,7 +7,7 @@
 ### Languages & Tools 
 
 <div>
- <img src=  "https://www.flaticon.com/ru/free-icons/html"/>
+<img src= https://github.com/Kateryna-Komarova/Kateryna-Komarova/blob/main/MyIcons/free-icon-html-5-174854.png />
 
  </div> 
 
