@@ -44,7 +44,7 @@
 
 <img src= https://github.com/Kateryna-Komarova/Kateryna-Komarova/blob/main/MyIcons/icons8-postman-api-128.png width="40" height="40" />
 
-<img src= https://github.com/Kateryna-Komarova/Kateryna-Komarova/blob/main/MyIcons/icons8-github-480.png width="40" height="40" />
+<img src= https://github.com/Kateryna-Komarova/Kateryna-Komarova/blob/main/MyIcons/icons8-github-250.png width="40" height="40" />
 
 <img src= https://github.com/Kateryna-Komarova/Kateryna-Komarova/blob/main/MyIcons/free-icon-visual-basic-5968389.png width="40" height="40" />
 
