@@ -18,6 +18,9 @@
 * Understanding client-server architecture
 * Understanding test design techniques
 * Understanding the Software Development Life Cycle (SDLC)
+* Linux
+* GIT
+
 
 ### Soft skills 🌱
 
