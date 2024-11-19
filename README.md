@@ -8,11 +8,10 @@
 
 * SQL
 * Rest API testing
-* Basic knowledge about software development models (waterfall, v model, iterative and incremental model, agile)
+* Basic knowledge about software development models (waterfall, v model, agile(scrum,kanban) )
 * Software testing
 * Creating test cases
 * Reporting bugs
-* Creating bug reports
 * Basic Java
 * Basic HTML and CSS
 * Understanding client-server architecture
