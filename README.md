@@ -52,7 +52,7 @@
 <img src= https://github.com/Kateryna-Komarova/Kateryna-Komarova/blob/main/MyIcons/IntelliJ_IDEA_Edu_Icon.svg width="40" height="40" />
 
 <img src= https://github.com/Kateryna-Komarova/Kateryna-Komarova/blob/main/MyIcons/bekeeper.png width="40" height="40" />
-
+<img src= https://github.com/Kateryna-Komarova/Kateryna-Komarova/blob/main/MyIcons/test-link.png width="40" height="40" />
  </div>
 
 <!---
