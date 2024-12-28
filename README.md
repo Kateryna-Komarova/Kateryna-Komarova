@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m @Kateryna-Komarova
 - 👀 I’m interested in automated testing
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning QA Automation
 
 ### Tech skills 💻
 
@@ -20,15 +20,13 @@
 * Understanding the Software Development Life Cycle (SDLC)
 * Linux
 * GIT
+* Jenkins
+* Gherkin
 
 
 ### Soft skills 🌱
 
-* Bug Whisperer – Ability to summon bugs out of nowhere, even when no one else can find them.🪲
-
 * Multitasking Ninja – Switching between 10 tabs without losing track of where the bug report is.🥷🏻
-
-* Stress Juggler – Handling sudden deadlines and last-minute scope changes without breaking a sweat.🤭
 
 * Learning Agility – willingness and ability to quickly learn new tools, frameworks, and concepts.
 * Attention to Detail – spotting small errors or inconsistencies that can impact the overall project.
