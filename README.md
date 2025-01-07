@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/Kateryna-Komarova/Kateryna-Komarova/main/MyIcons/qa1.png)](https://www.linkedin.com/in/%D0%B5%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0-%D0%BA%D0%BE%D0%BC%D0%B0%D1%80%D0%BE%D0%B2%D0%B0-584aab210/)
+[![Header](https://github.com/Kateryna-Komarova/Kateryna-Komarova/blob/main/MyIcons/qa1.png)](https://www.linkedin.com/in/%D0%B5%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0-%D0%BA%D0%BE%D0%BC%D0%B0%D1%80%D0%BE%D0%B2%D0%B0-584aab210/)
 
 
 - 👋 Hi, I’m @Kateryna-Komarova
@@ -37,21 +37,19 @@
 ### Languages & Tools
 
 <div>
-<img src= https://github.com/Kateryna-Komarova/Kateryna-Komarova/blob/main/MyIcons/free-icon-html-5-174854.png width="40" height="40" />
+<img src= https://github.com/Kateryna-Komarova/Kateryna-Komarova/blob/main/MyIcons/free-icon-html-136528.png width="40" height="40" />
 <img src= https://github.com/Kateryna-Komarova/Kateryna-Komarova/blob/main/MyIcons/free-icon-java-3291669.png width="40" height="40" />
 
 <img src= https://github.com/Kateryna-Komarova/Kateryna-Komarova/blob/main/MyIcons/icons8-postman-api-128.png width="40" height="40" />
 
-<img src= https://github.com/Kateryna-Komarova/Kateryna-Komarova/blob/main/MyIcons/icons8-github-250.png width="40" height="40" />
+<img src= https://github.com/Kateryna-Komarova/Kateryna-Komarova/blob/main/MyIcons/free-icon-github-733553.png width="40" height="40" />
 
 <img src= https://github.com/Kateryna-Komarova/Kateryna-Komarova/blob/main/MyIcons/free-icon-visual-basic-5968389.png width="40" height="40" />
-
-<img src= https://github.com/Kateryna-Komarova/Kateryna-Komarova/blob/main/MyIcons/free-icon-database-15474209.png width="40" height="40" />
 
 <img src= https://github.com/Kateryna-Komarova/Kateryna-Komarova/blob/main/MyIcons/IntelliJ_IDEA_Edu_Icon.svg width="40" height="40" />
 
 <img src= https://github.com/Kateryna-Komarova/Kateryna-Komarova/blob/main/MyIcons/bekeeper.png width="40" height="40" />
-<img src= https://github.com/Kateryna-Komarova/Kateryna-Komarova/blob/main/MyIcons/test-link.png width="40" height="40" />
+<img src= https://github.com/Kateryna-Komarova/Kateryna-Komarova/blob/main/MyIcons/idCWC37RrG_1736264936424.png width="40" height="40" />
  </div>
 
 <!---
