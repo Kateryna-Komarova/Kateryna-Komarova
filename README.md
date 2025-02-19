@@ -15,90 +15,89 @@
   </p>
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2C955C&center=true&vCenter=true&width=435&lines=QA+Engineer;Automation+Testing+Enthusiast;Always+Learning" alt="Typing SVG" />
+
+  📍 Görlitz, Germany
 </div>
 
 ## 👩‍💻 About Me
 
-I'm a QA Engineer passionate about automated testing and software quality. Currently expanding my knowledge in QA Automation and always eager to learn new technologies.
+My journey into software testing began in 2020 when I took my first QA course and discovered my passion for this field. Since then, I've been actively developing my skills in both manual and automated testing. I focus on improving software quality, designing effective test strategies, and continuously learning new tools and technologies in QA.
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDN1Z2dpd2Q2bHd4OWRvNzA5ZHFxb2E0M2lsbXhha3BqbzFvcjVvdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
 
+## 💼 Professional Experience
+
+**AIT-TR GmbH, Berlin, Germany** (2024 – Present)  
+*QA Intern / Junior QA Engineer*
+- Working on **Helpix.io** project - Service Directory
+- Creating comprehensive test documentation
+- Conducting API testing with **Postman**
+- Developing automated tests using **Selenium**
+- Implementing CI/CD with **Jenkins**
+- Using **Asana** for project management
+
 ## 🛠 Technical Skills
 
-- **Testing**:
-  ```
-  ├── Manual & Automated Testing
-  ├── REST API Testing
-  ├── Test Case Development
-  ├── Bug Reporting
-  └── Test Design Techniques
-  ```
+### Testing & QA
+- Manual & Automated Testing
+- Selenium WebDriver
+- Postman API Testing
+- TestLink & TestRail
+- Fiddler
+- Cucumber with Gherkin
+- TestNG Framework
 
-- **Programming**:
-  ```
-  ├── Java (Basic)
-  ├── HTML/CSS (Basic)
-  └── SQL
-  ```
+### Development & Tools
+- Java (Basic)
+- HTML/CSS
+- Git & GitHub
+- Jenkins
+- MySQL, MongoDB
+- Visual Studio Code
+- IntelliJ IDEA
+- Jira & Asana
 
-- **Tools & Technologies**:
-  ```
-  ├── Git
-  ├── Jenkins
-  ├── Postman
-  ├── Linux
-  └── Gherkin
-  ```
+### Methodologies & Concepts
+- Software Testing Lifecycle
+- Agile (Scrum, Kanban)
+- Client-Server Architecture
+- API Testing
+- Test Design Methods
+- Bug Tracking
+- Test Automation
 
-- **Methodologies**:
-  ```
-  ├── Agile (Scrum, Kanban)
-  ├── Waterfall
-  ├── V-model
-  ├── SDLC
-  └── Client-Server Architecture
-  ```
+## 📚 Education & Certifications
 
-## 🌱 Soft Skills
+### Education
+- **AIT-TR GmbH, Berlin** (2024 – 2025)  
+  QA Manual and Automation Testing Course
+- **GeekHub, Cherkasy** (2020 – 2021)  
+  Quality Assurance Training Program
 
-<table>
-  <tr>
-    <td>🥷🏻 Multitasking Ninja</td>
-    <td>Juggling multiple tasks while maintaining quality</td>
-  </tr>
-  <tr>
-    <td>📚 Learning Agility</td>
-    <td>Quick adaptation to new tools and technologies</td>
-  </tr>
-  <tr>
-    <td>🔍 Attention to Detail</td>
-    <td>Spotting and fixing the smallest inconsistencies</td>
-  </tr>
-  <tr>
-    <td>💡 Creativity</td>
-    <td>Finding innovative solutions to improve processes</td>
-  </tr>
-  <tr>
-    <td>🤝 Empathy</td>
-    <td>Understanding user and team needs</td>
-  </tr>
-  <tr>
-    <td>📢 Communication</td>
-    <td>Effective interaction with all process participants</td>
-  </tr>
-</table>
+### Certifications 🏆
+- **AIT-TR GmbH QA Course**  
+  Certificate Number: 49.05022025.008
+- **GeekHub QA Course (Season 10)**  
+  Certificate: gh21qa008
+
+## 🌍 Languages
+- Ukrainian (Native)
+- English (B1)
+- German (B1)
 
 ## 🔧 Tech Stack
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="Jira" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
 </div>
 
 ## 📊 GitHub Stats
