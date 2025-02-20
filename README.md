@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/%D0%B5%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0-%D0%BA%D0%BE%D0%BC%D0%B0%D1%80%D0%BE%D0%B2%D0%B0-584aab210/">
-    <img src="https://github.com/Kateryna-Komarova/Kateryna-Komarova/blob/main/MyIcons/qa1.png" alt="Header" width="100%" height="300">
+    <img src="https://github.com/Kateryna-Komarova/Kateryna-Komarova/blob/main/MyIcons/qa1.png" alt="Header" width="600" height="300">
   </a>
 </div>
 
