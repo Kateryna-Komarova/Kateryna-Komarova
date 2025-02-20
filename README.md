@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/%D0%B5%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0-%D0%BA%D0%BE%D0%BC%D0%B0%D1%80%D0%BE%D0%B2%D0%B0-584aab210/">
-    <img src="https://github.com/Kateryna-Komarova/Kateryna-Komarova/blob/main/MyIcons/qa1.png" alt="Header" width="600">
+    <img src="https://github.com/Kateryna-Komarova/Kateryna-Komarova/blob/main/MyIcons/qa1.png" alt="Header" width="100%" height="300">
   </a>
 </div>
 
@@ -21,13 +21,46 @@
 
 My journey into software testing began in 2020 when I took my first QA course and discovered my passion for this field. Since then, I've been actively developing my skills in both manual and automated testing. I focus on improving software quality, designing effective test strategies, and continuously learning new tools and technologies in QA.
 
-## 💼 Professional Experience & Skills
+## 🛠 Tech Stack & Tools
 
-<table>
-<tr>
-<td width="60%">
+### Programming & Markup
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="Markdown" width="40" height="40"/>
+</div>
 
-### Current Role
+### Testing Tools
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain.svg" alt="Cucumber" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="Jira" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" alt="JUnit" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/>
+</div>
+
+### Databases & DevOps
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+</div>
+
+### IDEs & Tools
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" alt="Chrome DevTools" width="40" height="40"/>
+</div>
+
+## 💼 Professional Experience
+
 **AIT-TR GmbH, Berlin** (2024 – Present)  
 *QA Intern / Junior QA Engineer*
 - Working on **Helpix.io** project - Service Directory
@@ -37,52 +70,33 @@ My journey into software testing began in 2020 when I took my first QA course an
 - Implementing CI/CD with **Jenkins**
 - Using **Asana** for project management
 
-### Testing & QA Skills
+## 🎯 Core Skills
+
+### Testing & QA
 - Manual & Automated Testing
-- Selenium WebDriver
-- Postman API Testing
-- TestLink & TestRail
-- Fiddler
-- Cucumber with Gherkin
-- TestNG Framework
-- Software Testing Lifecycle
-- Client-Server Architecture
-- Test Design Methods
-- Bug Tracking
+- Web, API, Mobile Testing
+- Performance Testing
+- Integration Testing
+- Regression Testing
+- Cross-browser Testing
+- Test Case Design
+- Bug Reporting
+- Test Documentation
+- Test Strategy Development
 
-</td>
-<td width="40%">
-
-### Tech Stack 🛠
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/>&nbsp;
-  <br><br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="Jira" width="40" height="40"/>
-</div>
-
-### GitHub Stats 📊
-<img src="https://github-readme-stats.vercel.app/api?username=Kateryna-Komarova&show_icons=true&theme=radical" alt="GitHub Stats" width="100%" />
-
-### Languages 🌍
-- Ukrainian (Native)
-- English (B1)
-- German (B1)
-
-</td>
-</tr>
-</table>
+### Methodologies & Practices
+- Agile (Scrum, Kanban)
+- Waterfall
+- V-model
+- CI/CD Practices
+- Test Automation
+- Bug Life Cycle
+- Requirements Analysis
+- Risk Assessment
+- Quality Assurance
+- Quality Control
 
 ## 📚 Education & Certifications
-
-<table>
-<tr>
-<td width="60%">
 
 ### Education
 - **AIT-TR GmbH, Berlin** (2024 – 2025)  
@@ -92,53 +106,15 @@ My journey into software testing began in 2020 when I took my first QA course an
 - **Cherkasy Commercial College** (2007 – 2009)  
   Entrepreneurship, Trade and Exchange Activities
 
-</td>
-<td width="40%">
-
 ### Certifications 🏆
 - **AIT-TR GmbH QA Course**  
   Certificate Number: 49.05022025.008
 - **GeekHub QA Course (Season 10)**  
   Certificate: gh21qa008
 
-</td>
-</tr>
-</table>
-
-## 💻 Development Tools & Frameworks
-
-<table>
-<tr>
-<td width="50%">
-
-### Primary Tools
-- Java (Basic)
-- HTML/CSS
-- Git & GitHub
-- Jenkins
-- Visual Studio Code
-- IntelliJ IDEA
-
-</td>
-<td width="50%">
-
-### Project Management
-- Jira
-- Asana
-- Agile (Scrum, Kanban)
-- Test Automation
-- API Testing
-- MySQL, MongoDB
-
-</td>
-</tr>
-</table>
-
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kateryna-Komarova&color=green" alt="Profile Views" />
-  <br><br>
   <i>Let's create quality software together! 🚀</i>
 </div>
 <!---
