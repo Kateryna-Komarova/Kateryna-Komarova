@@ -110,16 +110,6 @@ Working on **Helpix.io** project, where I:
 
 <div align="center">
 
-## 🌟 Fun Facts
-```python
-while True:
-    learn_new_things()
-    find_bugs()
-    improve_quality()
-    if coffee_empty():
-        refill_coffee()
-```
-
 ---
 ### 🚀 "Making the digital world a better place, one test at a time!" 🚀
 
