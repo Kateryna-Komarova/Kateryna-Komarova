@@ -1,10 +1,13 @@
 <div align="center">
-  <img src="https://github.com/Kateryna-Komarova/Kateryna-Komarova/blob/main/MyIcons/qa1.png" alt="Header" width="100%">
+  <!-- Animated Title Section -->
+  <div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=7951B3&width=600&lines=Hi+there!+I'm+Kateryna+Komarova+%F0%9F%91%8B;Quality+Assurance+Engineer;Always+Learning+%26+Growing" alt="Typing SVG" />
+  </div>
+  
+  <!-- Fancy Divider -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-  <!-- Animated Text -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2C955C&center=true&vCenter=true&width=435&lines=QA+Engineer;Automation+Testing+Enthusiast;Always+Learning" alt="Typing SVG">
-
-  # ⚡ Quality Assurance Engineer ⚡
+  # 
 
   <!-- Social Links -->
   <a href="https://www.linkedin.com/in/%D0%B5%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0-%D0%BA%D0%BE%D0%BC%D0%B0%D1%80%D0%BE%D0%B2%D0%B0-584aab210/">
@@ -43,7 +46,7 @@ My journey into software testing began in 2020 when I discovered my passion for 
   <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/Tools-FFB400?style=for-the-badge&logo=tools&logoColor=white"/>
-      <br>Jenkins<br>Git/GitHub<br>JIRA<br>TestRail<br>Docker
+      <br>Jenkins<br>Git/GitHub<br>JIRA<br>TestRail<br>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Frameworks-7952B3?style=for-the-badge&logo=testing-library&logoColor=white"/>
@@ -78,7 +81,7 @@ Working on **Helpix.io** project, where I:
   <img src="https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
 </p>
 
 ### 💻 Programming & Development
