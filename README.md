@@ -19,11 +19,15 @@
 <img align="right" alt="Coding Animation" src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif" width="400">
 
 ## 🚀 About Me
-> "Testing leads to failure, and failure leads to understanding" - Burt Rutan
 
 My journey into software testing began in 2020 when I discovered my passion for ensuring software quality. As a detail-oriented QA Engineer, I specialize in both manual and automated testing, constantly exploring new ways to improve software quality.
 
-## 
+<div align="center">
+  <a href="https://drive.google.com/file/d/1cc7Oh1uF4OyUaQGx0R22tYg_DvZ4NW_b/view?usp=sharing">
+    <img src="https://img.shields.io/badge/View%20My%20Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white"/>
+  </a>
+</div>
+
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ## 🛠 My Skills & Tools
@@ -109,6 +113,7 @@ Working on **Helpix.io** project, where I:
   > Season 10: gh21qa008
 
 <div align="center">
+
 
 ---
 ### 🚀 "Making the digital world a better place, one test at a time!" 🚀
