@@ -29,36 +29,14 @@ If you're looking for someone who's passionate about quality and excited to grow
 ## 🛠 My Skills & Tools
 <div align="center">
   <h2>️ My Skills & Tools</h2>
-  <table style="width: 100%; border-collapse: collapse;">
-    <tr>
-      <td style="padding: 10px; text-align: center;">
-        <img src="https://img.shields.io/badge/Manual%20Testing-FF6B6B?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Manual Testing" style="width: 150px; height: 30px; vertical-align: middle;"/>
-        <br>Test Design & Analysis<br>Requirements Coverage<br>Test Strategy & Planning<br>Defect Management<br>Test Documentation
-      </td>
-      <td style="padding: 10px; text-align: center;">
-        <img src="https://img.shields.io/badge/Automation-4D4DFF?style=for-the-badge&logo=robots&logoColor=white" alt="Automation" style="width: 150px; height: 30px; vertical-align: middle;"/>
-        <br>Selenium WebDriver<br>TestNG Framework<br>Cucumber BDD<br>JUnit<br>Page Object Model
-      </td>
-      <td style="padding: 10px; text-align: center;">
-        <img src="https://img.shields.io/badge/API%20Testing-00B4D8?style=for-the-badge&logo=postman&logoColor=white" alt="API Testing" style="width: 150px; height: 30px; vertical-align: middle;"/>
-        <br>Postman<br>REST Assured<br>SOAP UI<br>Swagger/OpenAPI<br>JSON/XML Parsing
-      </td>
-    </tr>
-    <tr>
-      <td style="padding: 10px; text-align: center;">
-        <img src="https://img.shields.io/badge/Tools-FFB400?style=for-the-badge&logo=tools&logoColor=white" alt="Tools" style="width: 150px; height: 30px; vertical-align: middle;"/>
-        <br>Jenkins<br>Git/GitHub<br>JIRA<br>TestRail<br>
-      </td>
-      <td style="padding: 10px; text-align: center;">
-        <img src="https://img.shields.io/badge/Frameworks-7952B3?style=for-the-badge&logo=testing-library&logoColor=white" alt="Frameworks" style="width: 150px; height: 30px; vertical-align: middle;"/>
-        <br>Test Automation Framework<br>BDD<br>Data Driven Testing<br>Keyword Driven Testing<br>Hybrid Framework Design
-      </td>
-      <td style="padding: 10px; text-align: center;">
-        <img src="https://img.shields.io/badge/Databases-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="Databases" style="width: 150px; height: 30px; vertical-align: middle;"/>
-        <br>MySQL<br>MongoDB<br>SQL Querying<br>Database Testing<br>Data Validation
-      </td>
-    </tr>
-  </table>
+  <p>
+    <strong>Manual Testing:</strong> Test Design & Analysis, Requirements Coverage, Test Strategy & Planning, Defect Management, Test Documentation<br>
+    <strong>Automation:</strong> Selenium WebDriver, TestNG Framework, Cucumber BDD, JUnit, Page Object Model<br>
+    <strong>API Testing:</strong> Postman, REST Assured, SOAP UI, Swagger/OpenAPI, JSON/XML Parsing<br>
+    <strong>Tools:</strong> Jenkins, Git/GitHub, JIRA, TestRail<br>
+    <strong>Frameworks:</strong> Test Automation Framework, BDD, Data Driven Testing, Keyword Driven Testing, Hybrid Framework Design<br>
+    <strong>Databases:</strong> MySQL, MongoDB, SQL Querying, Database Testing, Data Validation
+  </p>
 </div>
 
 ## 🎯 Professional Experience
