@@ -15,12 +15,10 @@
   </a>
 </div>
 
-<!-- Animated GIF -->
-<img align="right" alt="Coding Animation" src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif" width="400">
-
-## 🚀 About Me
-
-My journey into software testing began in 2020 when I discovered my passion for ensuring software quality. As a detail-oriented QA Engineer, I specialize in both manual and automated testing, constantly exploring new ways to improve software quality.
+## ☘️ About Me
+Hey! I'm Kateryna, a Junior QA Engineer, and I'm excited to turn software testing into an adventure of finding bugs before they find us! 🐞
+I have a strong interest in automated testing and I’m really excited to develop my skills in this area.
+If you're looking for someone who's passionate about quality and excited to grow, let’s chat!
 
 <div align="center">
   <a href="https://drive.google.com/file/d/1cc7Oh1uF4OyUaQGx0R22tYg_DvZ4NW_b/view?usp=sharing">
@@ -28,40 +26,34 @@ My journey into software testing began in 2020 when I discovered my passion for 
   </a>
 </div>
 
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
 ## 🛠 My Skills & Tools
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Manual%20Testing-FF6B6B?style=for-the-badge&logo=checkmarx&logoColor=white"/>
-      <br>Test Design & Analysis<br>Requirements Coverage<br>Test Strategy & Planning<br>Defect Management<br>Test Documentation
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Automation-4D4DFF?style=for-the-badge&logo=robots&logoColor=white"/>
-      <br>Selenium WebDriver<br>TestNG Framework<br>Cucumber BDD<br>JUnit<br>Page Object Model
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/API%20Testing-00B4D8?style=for-the-badge&logo=postman&logoColor=white"/>
-      <br>Postman<br>REST Assured<br>SOAP UI<br>Swagger/OpenAPI<br>JSON/XML Parsing
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Tools-FFB400?style=for-the-badge&logo=tools&logoColor=white"/>
-      <br>Jenkins<br>Git/GitHub<br>JIRA<br>TestRail<br>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Frameworks-7952B3?style=for-the-badge&logo=testing-library&logoColor=white"/>
-      <br>Test Automation Framework<br>BDD<br>Data Driven Testing<br>Keyword Driven Testing<br>Hybrid Framework Design
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Databases-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-      <br>MySQL<br>MongoDB<br>SQL Querying<br>Database Testing<br>Data Validation
-    </td>
-  </tr>
-</table>
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <div style="margin: 10px;">
+    <img src="https://img.shields.io/badge/Manual%20Testing-FF6B6B?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+    <br>Test Design & Analysis<br>Requirements Coverage<br>Test Strategy & Planning<br>Defect Management<br>Test Documentation
+  </div>
+  <div style="margin: 10px;">
+    <img src="https://img.shields.io/badge/Automation-4D4DFF?style=for-the-badge&logo=robots&logoColor=white"/>
+    <br>Selenium WebDriver<br>TestNG Framework<br>Cucumber BDD<br>JUnit<br>Page Object Model
+  </div>
+  <div style="margin: 10px;">
+    <img src="https://img.shields.io/badge/API%20Testing-00B4D8?style=for-the-badge&logo=postman&logoColor=white"/>
+    <br>Postman<br>REST Assured<br>SOAP UI<br>Swagger/OpenAPI<br>JSON/XML Parsing
+  </div>
+  <div style="margin: 10px;">
+    <img src="https://img.shields.io/badge/Tools-FFB400?style=for-the-badge&logo=tools&logoColor=white"/>
+    <br>Jenkins<br>Git/GitHub<br>JIRA<br>TestRail<br>
+  </div>
+  <div style="margin: 10px;">
+    <img src="https://img.shields.io/badge/Frameworks-7952B3?style=for-the-badge&logo=testing-library&logoColor=white"/>
+    <br>Test Automation Framework<br>BDD<br>Data Driven Testing<br>Keyword Driven Testing<br>Hybrid Framework Design
+  </div>
+  <div style="margin: 10px;">
+    <img src="https://img.shields.io/badge/Databases-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <br>MySQL<br>MongoDB<br>SQL Querying<br>Database Testing<br>Data Validation
+  </div>
+</div>
 
 ## 🎯 Professional Experience
 <details>
