@@ -53,6 +53,77 @@ Working on **Helpix.io** project, where I:
 - 📊 Manage projects in Asana
 </details>
 
+## My GitHub Projects
+
+<div align="center">
+  <table style="width:100%">
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Kateryna-Komarova/Helpix_UI">
+          <img src="https://img.shields.io/badge/Helpix_UI-Selenium%20WebDriver%2C%20TestNG-blue" alt="Helpix_UI"/>
+        </a><br>
+        UI test automation for Helpix.io using Selenium WebDriver and TestNG.
+      </td>
+      <td align="center">
+        <a href="https://github.com/Kateryna-Komarova/Helpix_API">
+          <img src="https://img.shields.io/badge/Helpix_API-СI/CD%20-green" alt="Helpix_API"/>
+        </a><br>
+        API test automation for Helpix.io .
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Kateryna-Komarova/PhonebookUi">
+          <img src="https://img.shields.io/badge/PhonebookUi-Selenium%20WebDriver-blue" alt="PhonebookUi"/>
+        </a><br>
+        UI test automation for the Phonebook web application using Selenium WebDriver.
+      </td>
+      <td align="center">
+        <a href="https://github.com/Kateryna-Komarova/Phonebook_API">
+          <img src="https://img.shields.io/badge/Phonebook_API-REST%20Assured-green" alt="Phonebook_API"/>
+        </a><br>
+        API test automation for the Phonebook web application using REST Assured.
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Kateryna-Komarova/First_Selenium_Project">
+          <img src="https://img.shields.io/badge/First_Selenium_Project-Selenium%20WebDriver-blue" alt="First_Selenium_Project"/>
+        </a><br>
+        Basic UI test automation project using Selenium WebDriver.
+      </td>
+      <td align="center">
+        <a href="https://github.com/Kateryna-Komarova/SelenideProject">
+          <img src="https://img.shields.io/badge/SelenideProject-Selenide-blue" alt="SelenideProject"/>
+        </a><br>
+        UI test automation using the Selenide framework.
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Kateryna-Komarova/CucumberProject">
+          <img src="https://img.shields.io/badge/CucumberProject-Cucumber%2C%20BDD-green" alt="CucumberProject"/>
+        </a><br>
+        BDD test automation using the Cucumber framework.
+      </td>
+      <td align="center">
+        <a href="https://github.com/Kateryna-Komarova/TheInternet">
+          <img src="https://img.shields.io/badge/TheInternet-Selenium%20WebDriver-blue" alt="TheInternet"/>
+        </a><br>
+        Test automation for the-internet.herokuapp.com using Selenium WebDriver.
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <a href="https://github.com/Kateryna-Komarova/DemoQA">
+          <img src="https://img.shields.io/badge/DemoQA-Selenium%20WebDriver-blue" alt="DemoQA"/>
+        </a><br>
+        Test automation for the DemoQA website using Selenium WebDriver.
+      </td>
+    </tr>
+  </table>
+</div>
+
 ## 🛠 Tech Stack
 <div align="center">
 
